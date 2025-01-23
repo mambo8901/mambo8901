@@ -77,5 +77,14 @@
             <p>Don't have an account? <a href="#">Sign up</a></p>
         </form>
     </div>
-</body>
+</section>
+  <!-- Footer -->
+  <footer class="bg-white py-6">
+   <div class="container mx-auto px-4 text-center">
+    <p class="text-gray-600">
+     © 2023 Hamba-Allah. All rights reserved.
+    </p>
+   </div>
+  </footer>
+ </body>
 </html>
